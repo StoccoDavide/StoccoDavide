@@ -6,6 +6,6 @@
 
 <p>I'm trying to fix a bug sorry...</p>
 
-<iframe src="https://giphy.com/embed/8vQSQ3cNXuDGo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-moment-remember-8vQSQ3cNXuDGo">via GIPHY</a></p>
+<img src="https://giphy.com/embed/8vQSQ3cNXuDGof" width="480" height="480" /><p><a href="https://giphy.com/gifs/cat-moment-remember-8vQSQ3cNXuDGo">via GIPHY</a></p>
 
 ---
