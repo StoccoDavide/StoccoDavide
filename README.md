@@ -1,13 +1,20 @@
 <h1> Hi, I'm Davide! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
 
+I am Davide Stocco, postdoctoral researcher at the [Department of Industrial Engineering of the University of Trento](https://dii.unitn.it).
 
-[![GitHub StoccoDavide](https://img.shields.io/github/followers/stoccodavide?label=follow&style=social)](https://github.com/StoccoDavide)
-[![Linkedin: StoccoDavide](https://img.shields.io/badge/-StoccoDavide-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stoccoavide/)](https://www.linkedin.com/in/StoccoDavide/)
+My research interest focus on  symbolic computation, differential-algebraic equations index reduction, as well as numeric solution of complex dynamical systems.
 
-🚧 Under construction...
+Tools/languages I am using:
 
-![Alt Text](https://media.giphy.com/media/zZMTVkTeEfeEg/giphy.gif)
+- C++
+- Maple
+- Matlab
+- CMake
+- LaTeX
+- VSCode
 
-...be patient!
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=StoccoDavide)
+
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs?username=StoccoDavide)
 
 ---
